@@ -1,28 +1,28 @@
 # PHRSystem_DBSProject_Grp11
-ABSTRACT:
+**ABSTRACT:**
 
 The Personal Health Record (PHR) system is an innovative digital platform designed to empower individuals to manage their healthcare information effectively. With a user-centric approach, the PHR system offers a comprehensive suite of features to track and organize various aspects of health data, including medical appointments, prescription records, vaccination history, menstruation cycles, and family health history. By providing a centralized repository for health information, the PHR system promotes proactive health management, facilitates communication with healthcare providers, and enhances continuity of care. Key features include the ability to input and store detailed health records, receive notifications for medication intake and upcoming appointments, predict menstruation periods, and access personalized health insights. With robust security measures to safeguard sensitive data, the PHR system offers users a secure and user-controlled platform for managing their health journey. Ultimately, the PHR system aims to empower individuals to take control of their health, make informed decisions, and achieve better health outcomes.
 
 
-KEY FEATURES:
+**KEY FEATURES:**
 
-Tracking Lab Reports and Family History:
+**Tracking Lab Reports and Family History:**
 	Tracks and organizes the user's medical history, including conditions like diabetes and asthma, along with post-appointment reports, ensuring a comprehensive overview for future check-ups.
 
-Tracking Appointments: 
+**Tracking Appointments:** 
 	Helps users organize and schedule appointments, ensuring timely healthcare management amidst a busy lifestyle, promoting health maintenance, and preventing adverse effects from missed appointments.
 
-Prescription Records:
+**Prescription Records:**
 	Meticulously maintains a record of current and past prescriptions, offering comprehensive medication management for patients.
 
-Vaccination Records:
+**Vaccination Records:**
 	Offers a detailed overview of the user's vaccination history from birth, including any pending vaccinations, ensuring comprehensive immunization management.
 
-Menstruation Cycle Record:
+**Menstruation Cycle Record:**
 	Maintains a user's menstrual cycle history, predicts future periods, and provides notifications for the onset of the next menstrual period, enhancing reproductive health tracking.
 
 
-HOW IT WORKS:
+**HOW IT WORKS:**
 
 A user who initially opens the app is introduced to the login page where he/she has to log in using their username and password. On clicking log in, if the username and password are valid, you'll be led to the home page. On entering an invalid username or password, you will be required to retry logging in. If you are a new user using the app for the first time, you can click on the sign-up option which will lead you to the sign-up page where upon entering your details and clicking on the submit option, you'll be added to the database system. You will be required to log in with your new unique username and password. 
 
